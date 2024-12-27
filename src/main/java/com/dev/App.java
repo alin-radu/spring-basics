@@ -12,6 +12,6 @@ public class App {
 
 //        System.out.println(obj.getAge());
 
-//        obj.build();
+        obj.build();
     }
 }
